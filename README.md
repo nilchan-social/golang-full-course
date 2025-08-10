@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=dpvRDJjUJf8
 
 Вторая часть курса:\
-{TODO link}
+https://www.youtube.com/watch?v=4xST8IWJFZc
 
 Приватное сообщество с домашними заданиями и учебными проектами:\
 https://t.me/nilchanbot
