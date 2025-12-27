@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=dpvRDJjUJf8
 https://www.youtube.com/watch?v=4xST8IWJFZc
 
 Третья часть курса:\
-${TODO: LINK}
+https://www.youtube.com/watch?v=MNyNxloZR0k
 
 Приватное сообщество с домашними заданиями, учебными проектами и дополнительными материалами:\
 https://t.me/nilchanbot
