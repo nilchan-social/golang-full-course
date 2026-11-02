@@ -9,14 +9,14 @@
 | 1 | Часть 1 | [▶ Видео-урок](https://www.youtube.com/watch?v=dpvRDJjUJf8) |
 | 2 | Часть 2 | [▶ Видео-урок](https://www.youtube.com/watch?v=4xST8IWJFZc) |
 | 3 | Часть 3.1 | [▶ Видео-урок](https://www.youtube.com/watch?v=MNyNxloZR0k) |
-| 4 | Часть 3.2 — Пишем полноценное бэкенд приложение | [▶ Видео-урок](https://www.youtube.com/watch?v=uxzZJw-52qk) · [💾 Исходные коды](https://t.me/nilchanbot) |
+| 4 | Часть 3.2 — Пишем полноценное бэкенд приложение | [▶ Видео-урок](https://www.youtube.com/watch?v=uxzZJw-52qk) · [💾 Исходные коды](https://nilchan.com) |
 
 ---
 
 ## 🔗 Ресурсы
 
 > 🧑‍💻 **Приватное сообщество** с домашними заданиями, учебными проектами и материалами для трудоустройства\
-> [`t.me/nilchanbot`](https://t.me/nilchanbot)
+> [`nilchan.com`](https://nilchan.com)
 
 > 📢 **Телеграм-канал**\
 > [`t.me/nilchanpub`](https://t.me/nilchanpub)
